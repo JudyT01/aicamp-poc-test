@@ -1,7 +1,7 @@
-crewai==0.67.1
-crewai_tools==0.12.1
-langchain_core==0.3.9
-langchain_openai==0.2.2
-openai==1.51.2
-python-dotenv==1.0.1
-streamlit==1.38.0
+crewai
+crewai_tools
+langchain_core
+langchain_openai
+openai
+python-dotenv
+streamlit
