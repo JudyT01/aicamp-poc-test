@@ -5,4 +5,4 @@ langchain_openai
 openai
 python-dotenv
 streamlit
-sqlite3==3.46.1.0
+sqlite3
