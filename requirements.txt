@@ -5,3 +5,4 @@ langchain_openai
 openai
 python-dotenv
 streamlit
+sqlite3
