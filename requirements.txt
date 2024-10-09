@@ -5,4 +5,5 @@ langchain_openai
 openai
 python-dotenv
 streamlit
-sqlite3
+pysqlite3-binary
+chromadb
